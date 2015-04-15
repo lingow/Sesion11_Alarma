@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alarma</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="doodle_alert">Se encontró un doodle</string>
+    <string name="connection_error">Connection error.</string>
+    <string name="doodle_found">There is a google doodle today!</string>
+    <string name="no_doodle">No google doodle today</string>
+</resources>
